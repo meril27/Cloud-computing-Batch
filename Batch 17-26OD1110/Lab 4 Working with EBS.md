@@ -310,12 +310,14 @@ Choose the X in the top right corner to close the panel.
 ## Output
 
 <img width="1919" height="965" alt="lab-4-op-1" src="https://github.com/user-attachments/assets/fb9dfee1-37ea-4d61-9c0a-58a58be73d8a" />
-
+<br><br>
 <img width="1919" height="979" alt="lab-4-op-2" src="https://github.com/user-attachments/assets/ab584d9c-8bbc-4218-ad37-2ba2035bd5e8" />
-
+<br><br>
 <img width="1919" height="968" alt="lab-4-op-3" src="https://github.com/user-attachments/assets/9bef433e-a1d5-4e8d-a826-50459534b82b" />
-
+<br><br>
 <img width="1919" height="966" alt="lab-4-op-4" src="https://github.com/user-attachments/assets/fd6af6f3-9d3b-44a8-b7ab-43d2b3014c45" />
 
+## Conclusion
 
+Thus, the Amazon EBS lab was successfully completed by creating and attaching an EBS volume to an EC2 instance, formatting and mounting the volume, and storing data on it. An EBS snapshot was created and successfully used to restore a new volume, which was attached, mounted, and verified to contain the original data.
 
